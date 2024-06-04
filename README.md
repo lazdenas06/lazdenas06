@@ -9,4 +9,3 @@ alurastartestudante@email.com
 
 @alurastartestudante
 
-Lembre-se: para adicionar emojis basta inserir o comando : e escolher o ícone de sua preferência!
